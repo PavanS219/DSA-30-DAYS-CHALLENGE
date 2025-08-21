@@ -24,6 +24,25 @@ I’ll be solving problems daily and pushing my code here to track progress.
 
 ---
 
+## 📅 Day 2 (Problems Solved)
+
+1. Contains Duplicate
+Solution: My Submission → https://leetcode.com/problems/contains-duplicate/submissions/1743436937/
+
+Difficulty: Easy
+Learned: Using HashSet to quickly detect duplicates in O(n) time.
+
+2. Missing Number
+Solution: My Submission → https://leetcode.com/problems/missing-number/submissions/1743501731/
+
+Difficulty: Easy
+Learned: Applying sum formula and XOR trick to find the missing element efficiently.
+
+3. First Unique Character in a String
+Solution: My Submission → https://leetcode.com/problems/first-unique-character-in-a-string/submissions/1743500026/
+
+Difficulty: Easy
+Learned: Frequency counting with a dictionary and iterating to find the first non-repeating character.
 ## 📌 Challenge Rules
 - Solve at least 1 problem every day.  
 - Push code + update this README daily.  
@@ -33,7 +52,7 @@ I’ll be solving problems daily and pushing my code here to track progress.
 
 ## ✅ Progress Tracker
 - **Day 1:** Completed 🎉  
-- **Day 2:** ⏳ (coming soon...)  
+- **Day 2:** Completed 🎉 
 
 ---
 
